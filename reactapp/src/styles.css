@@ -1,0 +1,15 @@
+.label {
+  font-weight: bold;
+  margin-right: 10px;
+  display: block;
+}
+.searchTextField {
+  margin-bottom: 20px;
+  position: relative;
+}
+.searchTextField img {
+  width: 15px;
+  position: absolute;
+  right: 7px;
+  top: 12px;
+}
